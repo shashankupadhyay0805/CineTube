@@ -1,0 +1,2 @@
+CineTube is a React-based movie web application that allows users to discover, search, and explore details of 1,000+ movies using a third-party API. It features advanced search and filtering for quick navigation and an optimized movie discovery experience. The application is built with a responsive UI, ensuring seamless accessibility across devices.
+![Uploading Screenshot 2025-08-22 160652.png…]()
